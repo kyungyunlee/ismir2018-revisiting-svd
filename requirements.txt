@@ -5,4 +5,4 @@ numpy==1.14.0
 tensorflow==1.15.2
 keras==2.1.6
 scikit_learn==0.19.1
-PyYAML==3.12
+PyYAML==5.1
