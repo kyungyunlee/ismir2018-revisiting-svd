@@ -1,6 +1,6 @@
 # Revisiting Singing Voice Detection : a quantitative review and the future outlook
 
-This repo contains code for the paper "**Revisiting Singing Voice Detection: a Quantitative Review and the Future Outlook**" by Kyungyun Lee, Keunwoo Choi and Juhan Nam at the 19th International Society for Music Information Retrieval Conference (ISMIR) 2018. [[pdf](http://arxiv.org/abs/1806.01180), [blog post](https://kyungyunlee.github.io/archives/ISMIR2018-Revisiting-Singing-Voice-Detection)]      
+This repo contains code for the paper "**Revisiting Singing Voice Detection: a Quantitative Review and the Future Outlook**" by Kyungyun Lee, Keunwoo Choi and Juhan Nam at the 19th International Society for Music Information Retrieval Conference (ISMIR) 2018. [[pdf](http://arxiv.org/abs/1806.01180), [blog post](https://kyungyunlee.github.io/blog/ismir2018)]      
 
 ### Requirements  
 * specified in requirements.txt
