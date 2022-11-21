@@ -2,7 +2,7 @@ scipy==1.1.0
 h5py==2.7.1
 librosa==0.5.1
 numpy==1.14.0
-tensorflow==1.15.2
+tensorflow==2.9.3
 keras==2.1.6
 scikit_learn==0.19.1
 PyYAML==5.1
